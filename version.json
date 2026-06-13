@@ -1,25 +1,19 @@
 {
-  "version": "1.4.12",
+  "version": "1.4.13",
   "url": "https://github.com/shootinger/fox-tool-releases/releases/latest",
-  "download": "https://github.com/shootinger/fox-tool-releases/releases/download/v1.4.12/FiveTools.Setup.1.4.12.exe",
+  "download": "https://github.com/shootinger/fox-tool-releases/releases/download/v1.4.13/FiveTools.Setup.1.4.13.exe",
   "changelog": {
     "fr": [
-      "Bouton \"Remonter en haut\" dans la recherche de serveurs",
-      "Les changements de version s'affichent dans la langue du client lors d'une mise à jour",
-      "Raisons de crash traduites en FR / EN / ES",
-      "Sélecteur de dossier FiveM.app dans l'onglet Crashes"
+      "Correction du bouton \"Remonter en haut\" dans la recherche (position et déclenchement)",
+      "Scrollbar de l'historique remplacée par une barre fine et discrète"
     ],
     "en": [
-      "Scroll-to-top button in server search",
-      "Version changelog now displayed in client language on update",
-      "Crash reasons translated in FR / EN / ES",
-      "FiveM.app folder picker in Crashes tab"
+      "Fixed scroll-to-top button in search (position and trigger)",
+      "History scrollbar replaced with a thin, styled scrollbar"
     ],
     "es": [
-      "Botón \"Volver arriba\" en la búsqueda de servidores",
-      "Los cambios de versión se muestran en el idioma del cliente al actualizar",
-      "Razones de crash traducidas en FR / EN / ES",
-      "Selector de carpeta FiveM.app en la pestaña Crashes"
+      "Corrección del botón \"Volver arriba\" en la búsqueda (posición y activación)",
+      "Barra de desplazamiento del historial reemplazada por una barra fina y discreta"
     ]
   }
 }
