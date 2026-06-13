@@ -1,5 +1,25 @@
 {
-  "version": "1.4.10",
+  "version": "1.4.12",
   "url": "https://github.com/shootinger/fox-tool-releases/releases/latest",
-  "download": "https://github.com/shootinger/fox-tool-releases/releases/download/v1.4.10/FiveTools.Setup.1.4.10.exe"
+  "download": "https://github.com/shootinger/fox-tool-releases/releases/download/v1.4.12/FiveTools.Setup.1.4.12.exe",
+  "changelog": {
+    "fr": [
+      "Bouton \"Remonter en haut\" dans la recherche de serveurs",
+      "Les changements de version s'affichent dans la langue du client lors d'une mise à jour",
+      "Raisons de crash traduites en FR / EN / ES",
+      "Sélecteur de dossier FiveM.app dans l'onglet Crashes"
+    ],
+    "en": [
+      "Scroll-to-top button in server search",
+      "Version changelog now displayed in client language on update",
+      "Crash reasons translated in FR / EN / ES",
+      "FiveM.app folder picker in Crashes tab"
+    ],
+    "es": [
+      "Botón \"Volver arriba\" en la búsqueda de servidores",
+      "Los cambios de versión se muestran en el idioma del cliente al actualizar",
+      "Razones de crash traducidas en FR / EN / ES",
+      "Selector de carpeta FiveM.app en la pestaña Crashes"
+    ]
+  }
 }
