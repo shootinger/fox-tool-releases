@@ -1,16 +1,19 @@
 {
-  "version": "1.4.14",
+  "version": "1.4.15",
   "url": "https://github.com/shootinger/fox-tool-releases/releases/latest",
-  "download": "https://github.com/shootinger/fox-tool-releases/releases/download/v1.4.14/FiveTools.Setup.1.4.14.exe",
+  "download": "https://github.com/shootinger/fox-tool-releases/releases/download/v1.4.15/FiveTools.Setup.1.4.15.exe",
   "changelog": {
     "fr": [
-      "Les infobulles des boutons s'affichent maintenant dans votre langue (FR / EN / ES)"
+      "Nouvelles statistiques dans l'historique : dernière connexion, session la plus longue, connexions ce mois",
+      "Nouvelle vue \"Par serveur\" : regroupez vos connexions par serveur avec visites et temps total"
     ],
     "en": [
-      "Button tooltips now display in your language (FR / EN / ES)"
+      "New history stats: last connection, longest session, connections this month",
+      "New \"By server\" view: group your connections by server with visit count and total time"
     ],
     "es": [
-      "Las descripciones emergentes de los botones ahora se muestran en tu idioma (FR / EN / ES)"
+      "Nuevas estadísticas del historial: última conexión, sesión más larga, conexiones este mes",
+      "Nueva vista \"Por servidor\": agrupa tus conexiones por servidor con visitas y tiempo total"
     ]
   }
 }
