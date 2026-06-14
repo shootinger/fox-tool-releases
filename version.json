@@ -1,19 +1,19 @@
 {
-  "version": "1.4.13",
+  "version": "1.4.14",
   "url": "https://github.com/shootinger/fox-tool-releases/releases/latest",
-  "download": "https://github.com/shootinger/fox-tool-releases/releases/download/v1.4.13/FiveTools.Setup.1.4.13.exe",
+  "download": "https://github.com/shootinger/fox-tool-releases/releases/download/v1.4.14/FiveTools.Setup.1.4.14.exe",
   "changelog": {
     "fr": [
-      "Correction du bouton \"Remonter en haut\" dans la recherche (position et déclenchement)",
-      "Scrollbar de l'historique remplacée par une barre fine et discrète"
+      "Tous les tooltips de l'interface sont désormais traduits en FR / EN / ES",
+      "Aucun texte codé en dur ne subsiste — l'application est entièrement localisée"
     ],
     "en": [
-      "Fixed scroll-to-top button in search (position and trigger)",
-      "History scrollbar replaced with a thin, styled scrollbar"
+      "All UI tooltips are now fully translated in FR / EN / ES",
+      "No more hardcoded text — the app is fully localized"
     ],
     "es": [
-      "Corrección del botón \"Volver arriba\" en la búsqueda (posición y activación)",
-      "Barra de desplazamiento del historial reemplazada por una barra fina y discreta"
+      "Todos los tooltips de la interfaz ahora están traducidos en FR / EN / ES",
+      "Sin texto codificado restante — la aplicación está completamente localizada"
     ]
   }
 }
