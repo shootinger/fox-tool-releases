@@ -4,16 +4,13 @@
   "download": "https://github.com/shootinger/fox-tool-releases/releases/download/v1.4.14/FiveTools.Setup.1.4.14.exe",
   "changelog": {
     "fr": [
-      "Tous les tooltips de l'interface sont désormais traduits en FR / EN / ES",
-      "Aucun texte codé en dur ne subsiste — l'application est entièrement localisée"
+      "Les infobulles des boutons s'affichent maintenant dans votre langue (FR / EN / ES)"
     ],
     "en": [
-      "All UI tooltips are now fully translated in FR / EN / ES",
-      "No more hardcoded text — the app is fully localized"
+      "Button tooltips now display in your language (FR / EN / ES)"
     ],
     "es": [
-      "Todos los tooltips de la interfaz ahora están traducidos en FR / EN / ES",
-      "Sin texto codificado restante — la aplicación está completamente localizada"
+      "Las descripciones emergentes de los botones ahora se muestran en tu idioma (FR / EN / ES)"
     ]
   }
 }
